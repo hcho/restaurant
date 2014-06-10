@@ -1,4 +1,4 @@
-restaurant
-==========
+starter-project
+===============
 
-summer web design restaurant website
+all the good stuff for starting a website.
